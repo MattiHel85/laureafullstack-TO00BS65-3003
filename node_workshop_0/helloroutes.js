@@ -14,7 +14,7 @@ http.createServer(function(req, res) {
     } else if (req.url === '/gohome') {
         res.write('<h1>GO HOME!</h1>')
     } else if (req.url === '/dontgohome') {
-        res.write('<h1>DO NOT GO HOME!</h1>')
+        res.write('<h1>DO NOT GO HOME!!</h1>')
     }
 
     res.end();
