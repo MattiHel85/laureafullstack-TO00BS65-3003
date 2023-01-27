@@ -1,0 +1,4 @@
+I wrote this
+Here is some example text to test your program with. This is from the file named 'example.txt'.
+This is the second example text file. This is from the file named 'example2.txt'.
+I wrote this!
