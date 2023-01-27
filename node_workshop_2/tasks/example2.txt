@@ -1,0 +1,1 @@
+This is the second example text file. This is from the file named 'example2.txt'.

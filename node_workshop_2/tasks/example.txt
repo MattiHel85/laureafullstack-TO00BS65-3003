@@ -1,1 +1,1 @@
-Some text
+Here is some example text to test your program with. This is from the file named 'example.txt'.
